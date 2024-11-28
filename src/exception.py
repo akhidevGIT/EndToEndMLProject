@@ -1,6 +1,4 @@
 import sys
-import logging
-import logger
 
 #Custom Error Message
 def error_message_display(error, error_detail:sys):

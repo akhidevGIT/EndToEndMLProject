@@ -1,5 +1,10 @@
 ipykernel
 pandas
 numpy
-#scikit-learn
+scikit-learn
+matplotlib
+seaborn
+feature_engine
+flask
+
 -e .
